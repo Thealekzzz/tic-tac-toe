@@ -1,7 +1,8 @@
 # Tic tac toe
 
 ### Что это?
-Описание проекта.
+Простой проект на базовых технологиях веб разработки.
+Использованы HTML, CSS, JavaScript и БЭМ.
 
 
-[Ссылка на сайт в Pages](https://thealekzzz.github.io/tic-tac-toe)
+[Ссылка на сайт](https://thealekzzz.github.io/tic-tac-toe)
