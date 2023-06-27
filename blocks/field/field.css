@@ -1,0 +1,16 @@
+.field {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 1px;
+
+  width: fit-content;
+
+  margin: 50px auto;
+
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  overflow: hidden;
+
+  background-color: #aaa;
+}

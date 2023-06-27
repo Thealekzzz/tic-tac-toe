@@ -1,0 +1,15 @@
+.title {
+  width: fit-content;
+  margin: 50px auto 0;
+
+  font-size: 24px;
+  font-weight: bold;
+
+  position: relative;
+
+  /* transform: translate(40px, 40px); */
+}
+
+.title > span {
+  font-size: 24px;
+}

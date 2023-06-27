@@ -1,0 +1,19 @@
+.finish-popup__reset-button {
+  padding: 10px 20px;
+
+  border: none;
+  border-radius: 5px;
+  margin-left: auto;
+
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #3477dd;
+
+  cursor: pointer;
+  transition: background-color .2s;
+}
+
+.finish-popup__reset-button:hover {
+  background-color: #2c6ac7;
+}

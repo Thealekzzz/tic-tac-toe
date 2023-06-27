@@ -1,0 +1,14 @@
+.finish-popup__image {
+  position: absolute;
+  top: -32px;
+  right: -32px;
+
+  width: 20px;
+
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.finish-popup__image:hover {
+  opacity: .8;
+}

@@ -1,0 +1,10 @@
+.field__item {
+  background-color: white;
+
+  transition: background-color .2s;
+  cursor: pointer;
+}
+
+.field__item:hover {
+  background-color: #fafafa;
+}

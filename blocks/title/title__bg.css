@@ -1,0 +1,15 @@
+.title__bg {
+  display: block;
+
+  width: 140px;
+  height: 30px;
+
+  position: absolute;
+  top: 0;
+
+  transform: skew(-10deg);
+
+  background-color: seagreen;
+
+  z-index: -1;
+}
